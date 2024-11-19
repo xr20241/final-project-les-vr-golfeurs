@@ -1,3 +1,6 @@
+# The project is on this git depository
+https://github.com/codalbin/xreality_OhMyGolf.git
+
 # Project Presentation
 `https://docs.google.com/presentation/d/1nAEdIRGutf26PkXF_lPwTj3zOw3SfL1osU06o1PMAF4/edit?usp=sharing`
 
