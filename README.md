@@ -1,4 +1,4 @@
-# The last version from the project is on this git depository
+# The lastest version from the project is on this git depository
 https://github.com/codalbin/xreality_OhMyGolf2.git
 
 # OBSELETE : The project is on this git depository
